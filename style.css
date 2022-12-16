@@ -3,3 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.container{
+    margin: 20px auto;
+}
+
+body {
+    background-color: rgb(30,45,59); 
+}
+
+.disc-card{
+    margin: 20px;
+    background-color: #2E3A46; 
+}
